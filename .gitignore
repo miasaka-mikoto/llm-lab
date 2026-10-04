@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.db
+build/
+build_onefile/
+dist/
+dist_onefile/
+reports/
+.pytest_cache/
+.mplconfig/
