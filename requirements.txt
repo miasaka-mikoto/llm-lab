@@ -1,0 +1,2 @@
+# LLM Lab uses Python standard library only.
+# Optional: pyinstaller (for build_windows.bat)
