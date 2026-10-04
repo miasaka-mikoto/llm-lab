@@ -1,0 +1,20 @@
+{"id":"s01","input":"What is 2 + 2?","expected":"4","context":"arithmetic","split":"test"}
+{"id":"s02","input":"Name the color of a clear daytime sky.","expected":"blue","context":"common knowledge","split":"test"}
+{"id":"s03","input":"What is the capital of Japan?","expected":"Tokyo","context":"geography","split":"test"}
+{"id":"s04","input":"Complete: water freezes at __ degrees Celsius.","expected":"0","context":"science","split":"test"}
+{"id":"s05","input":"Translate 'hello' to Japanese.","expected":"こんにちは","context":"translation","split":"test"}
+{"id":"s06","input":"What is 5 * 6?","expected":"30","context":"arithmetic","split":"test"}
+{"id":"s07","input":"Name a mammal that can fly.","expected":"bat","context":"biology","split":"test"}
+{"id":"s08","input":"What is the opposite of hot?","expected":"cold","context":"language","split":"test"}
+{"id":"s09","input":"What is 10 - 3?","expected":"7","context":"arithmetic","split":"test"}
+{"id":"s10","input":"Name the largest ocean.","expected":"Pacific","context":"geography","split":"test"}
+{"id":"s11","input":"What gas do plants absorb?","expected":"carbon dioxide","context":"biology","split":"test"}
+{"id":"s12","input":"What is 3 squared?","expected":"9","context":"arithmetic","split":"test"}
+{"id":"s13","input":"Name a primary color.","expected":"red","context":"art","split":"test"}
+{"id":"s14","input":"What month follows April?","expected":"May","context":"calendar","split":"test"}
+{"id":"s15","input":"What is the boiling point of water in Celsius?","expected":"100","context":"science","split":"test"}
+{"id":"s16","input":"Translate 'thank you' to Japanese.","expected":"ありがとう","context":"translation","split":"test"}
+{"id":"s17","input":"How many days are in a week?","expected":"7","context":"calendar","split":"test"}
+{"id":"s18","input":"What planet do we live on?","expected":"Earth","context":"astronomy","split":"test"}
+{"id":"s19","input":"What is 8 divided by 2?","expected":"4","context":"arithmetic","split":"test"}
+{"id":"s20","input":"Name the season after summer.","expected":"autumn","context":"calendar","split":"test"}

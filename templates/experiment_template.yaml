@@ -1,0 +1,15 @@
+name: New Offline Experiment
+research_question: ""
+hypothesis: ""
+dataset: sample_data/prompt_robustness.jsonl
+model: mock-balanced
+prompt: "Answer precisely: {input}"
+prompt_version: v1
+parameters:
+  temperature: 0.0
+  top_p: 1.0
+  max_tokens: 128
+  seed: 42
+evaluator: exact_match
+metrics: [exact_match, latency, token_count]
+notes: ""

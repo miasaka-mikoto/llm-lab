@@ -1,0 +1,5 @@
+name: Memory Strategy Comparison
+strategies: [no_memory, sliding_window, summary_memory, vector_memory, episodic_memory, semantic_memory]
+capacity: 50
+metrics: [recall_accuracy, latency, token_usage, context_size]
+provider: mock-balanced

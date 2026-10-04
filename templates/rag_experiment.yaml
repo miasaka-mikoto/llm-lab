@@ -1,0 +1,12 @@
+name: RAG Chunking Comparison
+research_question: "How do chunk size, overlap and top-k affect retrieval?"
+hypothesis: "Moderate overlap improves recall without excessive context."
+documents: []
+chunking:
+  chunk_size: [128, 256, 512]
+  overlap: [0, 32, 64]
+retriever: [vector_store]
+top_k: [1, 3, 5]
+reranker: [none]
+generator: mock-balanced
+metrics: [recall, answer_quality, latency, token_count]
